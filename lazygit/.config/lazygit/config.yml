@@ -1,0 +1,9 @@
+disableStartupPopups: true
+notARepository: 'skip' # one of: 'prompt' | 'create' | 'skip'
+os:
+  editPreset: 'code'
+keybinding:
+  universal:
+    pushFiles: 'p'
+    pullFiles: 'P'
+
