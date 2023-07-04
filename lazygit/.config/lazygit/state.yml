@@ -1,6 +1,10 @@
 lastupdatecheck: 0
 recentrepos:
+- /Users/aldomorua/lifelink/e2e-tests
+- /Users/aldomorua/lifelink/author
 - /Users/aldomorua/lifelink/vail
 startuppopupversion: 0
-customcommandshistory: []
+customcommandshistory:
+- :Q
+- :q
 hidecommandlog: false
